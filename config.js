@@ -25,18 +25,18 @@ global.prems = []
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 <<<<<<< HEAD
-global.packname = `[ sᥲsᥙkᥱ ᑲ᥆𝗍 🌀`
-global.author = '𝐑𝐞𝐲𝐞𝐬 𝟑𝟑𝟑 𝐁𝐨𝐭 🤴 🌀]'
-global.stickpack = '©𝐑𝐞𝐲𝐞𝐬 𝟑𝟑𝟑 𝐁𝐨𝐭 🤴 🌀'
+global.packname = `[ sᥲsᥙkᥱ ᑲ᥆𝗍 🤴`
+global.author = '𝐑𝐞𝐲𝐞𝐬 𝟑𝟑𝟑 𝐁𝐨𝐭 🤴 🤴]'
+global.stickpack = '©𝐑𝐞𝐲𝐞𝐬 𝟑𝟑𝟑 𝐁𝐨𝐭 🤴 🤴'
 global.stickauth = 'ᑲᥡ sᥲsᥙkᥱ ᑲ᥆𝗍'
-global.wm = 'sᥲsᥙkᥱ 🌀'
+global.wm = 'sᥲsᥙkᥱ 🤴'
 global.dev = '© 𝖯᥆𝗐ᥱ𝗋ᥱძ ᑲᥡ 𝖲ᥙᥒ𝖿ᥣᥲ𝗋ᥱ  ☂︎  𝖳ᥱᥲ𝗆'
-global.wait = '🌪️ *Aɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ, sᴏʏ ʟᴇɴᴛ𝙾... ฅ^•ﻌ•^ฅ\n\n> 𝐑𝐞𝐲𝐞𝐬 𝟑𝟑𝟑 𝐁𝐨𝐭 🤴 🌀 🌪️*'
-global.botname = '[ 𝐑𝐞𝐲𝐞𝐬 𝟑𝟑𝟑 𝐁𝐨𝐭 🤴 🌀 ]'
-global.textbot = `⍴᥆ᥕᥱrᥱძ ᑲᥡ sᥲsᥙkᥱ 🌀`
-global.dev = '• ⍴᥆ᥕᥱrᥱძ ᑲᥡ ᥴ᥆mᥙᥒі𝗍ᥡ 𝐑𝐞𝐲𝐞𝐬 𝟑𝟑𝟑 𝐁𝐨𝐭 🤴 🌀'
+global.wait = '🌪️ *Aɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ, sᴏʏ ʟᴇɴᴛ𝙾... ฅ^•ﻌ•^ฅ\n\n> 𝐑𝐞𝐲𝐞𝐬 𝟑𝟑𝟑 𝐁𝐨𝐭 🤴 🤴 🌪️*'
+global.botname = '[ 𝐑𝐞𝐲𝐞𝐬 𝟑𝟑𝟑 𝐁𝐨𝐭 🤴 🤴 ]'
+global.textbot = `⍴᥆ᥕᥱrᥱძ ᑲᥡ sᥲsᥙkᥱ 🤴`
+global.dev = '• ⍴᥆ᥕᥱrᥱძ ᑲᥡ ᥴ᥆mᥙᥒі𝗍ᥡ 𝐑𝐞𝐲𝐞𝐬 𝟑𝟑𝟑 𝐁𝐨𝐭 🤴 🤴'
 global.listo = '*Aqui tiene ฅ^•ﻌ•^ฅ*'
-global.namechannel = '𝐑𝐞𝐲𝐞𝐬 𝟑𝟑𝟑 𝐁𝐨𝐭 🤴 🌀'
+global.namechannel = '𝐑𝐞𝐲𝐞𝐬 𝟑𝟑𝟑 𝐁𝐨𝐭 🤴 🤴'
 =======
 global.packname = `[ 𝐑𝐞𝐲𝐞𝐬 𝟑𝟑𝟑 🤴`
 global.author = '𝐑𝐞𝐲𝐞𝐬 𝟑𝟑𝟑 𝐁𝐨𝐭 🤴]'

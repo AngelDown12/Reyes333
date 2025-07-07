@@ -2,7 +2,7 @@ import PhoneNumber from 'awesome-phonenumber';
 import fetch from 'node-fetch';
 import fs from 'fs';
 
-const imagen1 = 'ᥴһᥲᥒᥒᥱᥣ-𝐑𝐞𝐲𝐞𝐬 𝟑𝟑𝟑 𝐁𝐨𝐭 🤴 🌀';
+const imagen1 = 'ᥴһᥲᥒᥒᥱᥣ-𝐑𝐞𝐲𝐞𝐬 𝟑𝟑𝟑 𝐁𝐨𝐭 🤴 🤴';
 
 const loadMarriages = () => {
     if (fs.existsSync('./media/database/marry.json')) {
@@ -61,7 +61,7 @@ var handler = async (m, { conn }) => {
 │⧼🎂⧽ *ᴄᴜᴍᴘʟᴇᴀɴ̃ᴏs:* ${birth}
 │⧼👩‍❤️‍👩⧽ *ᴄᴀsᴀᴅᴏ:* ${isMarried ? partnerName : 'Nadie'}
 📜 *ᴅᴇsᴄʀɪᴘᴄɪᴏɴ:* ${description}
-│⧼🌀⧽ *ʀᴇɢɪsᴛʀᴀᴅᴏ:* ${registered ? '✅': '❌'}
+│⧼🤴⧽ *ʀᴇɢɪsᴛʀᴀᴅᴏ:* ${registered ? '✅': '❌'}
 
 ╰─────────────────⪨
 

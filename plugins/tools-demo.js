@@ -14,7 +14,7 @@ isForwarded: false,
 "externalAdReply": {
 "showAdAttribution": true,
 "containsAutoReply": true,
-title: `[ 𝐑𝐞𝐲𝐞𝐬 𝟑𝟑𝟑 𝐁𝐨𝐭 🤴 🌀|sᥲsᥙkᥱ ᑲ᥆𝗍 ]`,
+title: `[ 𝐑𝐞𝐲𝐞𝐬 𝟑𝟑𝟑 𝐁𝐨𝐭 🤴 🤴|sᥲsᥙkᥱ ᑲ᥆𝗍 ]`,
 body: ``,
 "previewType": "PHOTO",
 thumbnailUrl: 'https://tinyurl.com/2awg2bch', 

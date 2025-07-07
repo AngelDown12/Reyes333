@@ -229,13 +229,13 @@ para el bot
       throw false
   }
 
-m.reply(`⚠️ *𝐑𝐞𝐲𝐞𝐬 𝟑𝟑𝟑 𝐁𝐨𝐭 🤴 🌀 Notificación* ⚠️
+m.reply(`⚠️ *𝐑𝐞𝐲𝐞𝐬 𝟑𝟑𝟑 𝐁𝐨𝐭 🤴 🤴 Notificación* ⚠️
 
 💎 *Comando ejecutado:* *${type}*
 👤 *Estado actual:* *${isEnable? 'Activado ✅': 'Desactivado ❌'}*
 📍 *Ámbito:* ${isAll? '*Todo el Bot* 🌐': isUser? '*Usuario específico* 👥': '*Este Chat* 💬'}
 
-🚀 *Muchas gracias por usar 𝐑𝐞𝐲𝐞𝐬 𝟑𝟑𝟑 𝐁𝐨𝐭 🤴 🌀*🎖️`)
+🚀 *Muchas gracias por usar 𝐑𝐞𝐲𝐞𝐬 𝟑𝟑𝟑 𝐁𝐨𝐭 🤴 🤴*🎖️`)
 }
 
 handler.help = ['enable', 'disable', 'on', 'off']

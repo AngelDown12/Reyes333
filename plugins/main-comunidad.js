@@ -7,7 +7,7 @@ const handler = async (m, { conn }) => {
 ──────── ⚔ ────────  
 
 *Bot barboza*  
-• ,👥➤ **Grupo de WhatsApp de la comunidad de 𝐑𝐞𝐲𝐞𝐬 𝟑𝟑𝟑 𝐁𝐨𝐭 🤴 🌀**  
+• ,👥➤ **Grupo de WhatsApp de la comunidad de 𝐑𝐞𝐲𝐞𝐬 𝟑𝟑𝟑 𝐁𝐨𝐭 🤴 🤴**  
    Únete para compartir y resolver dudas con otros usuarios. 
   ➤https://whatsapp.com/channel/0029Vaua0ZD3gvWjQaIpSy18
 

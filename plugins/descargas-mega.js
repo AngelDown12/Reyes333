@@ -15,7 +15,7 @@ let handler = async (m, { conn, args, usedPrefix, text, command }) => {
         // Reemplazamos rwait con una reacción válida, como una marca de verificación
         m.react('✅'); // Puedes personalizar el emoji según prefieras
 
-        const caption = `   *--- ${botName} ---*\nFile: ${file.name}\nSize: ${formatBytes(file.size)}\n> 𝐑𝐞𝐲𝐞𝐬 𝟑𝟑𝟑 𝐁𝐨𝐭 🤴 🌀`;
+        const caption = `   *--- ${botName} ---*\nFile: ${file.name}\nSize: ${formatBytes(file.size)}\n> 𝐑𝐞𝐲𝐞𝐬 𝟑𝟑𝟑 𝐁𝐨𝐭 🤴 🤴`;
 
         const data = await file.downloadBuffer();
 

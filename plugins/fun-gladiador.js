@@ -7,7 +7,7 @@ const handler = async (m, { conn}) => {
         { nombre: "🔮 Místico", ventaja: "Utiliza tácticas engañosas y ataques impredecibles."},
         { nombre: "🗡️ Equilibrado", ventaja: "Buena combinación de defensa y ataque."},
         { nombre: "🔥 Berserker", ventaja: "Sacrifica defensa por poder máximo en ataque."},
-        { nombre: "🌀 Acrobático", ventaja: "Alta movilidad para esquivar y atacar rápidamente."},
+        { nombre: "🤴 Acrobático", ventaja: "Alta movilidad para esquivar y atacar rápidamente."},
         { nombre: "☠️ Destructor", ventaja: "Golpes devastadores que pueden acabar rápido la pelea."},
         { nombre: "🐉 Dragón", ventaja: "Poder legendario con ataques elementales de fuego."},
         { nombre: "🦂 Venenoso", ventaja: "Infecta al enemigo con ataques dañinos a largo plazo."},
@@ -34,7 +34,7 @@ handler.before = async (m, { conn}) => {
         const eleccion = parseInt(m.text.trim());
         const estilosCombate = [
             "🛡️ Defensivo", "⚔️ Agresivo", "🏹 Estratégico", "🦍 Bestia", "🔮 Místico",
-            "🗡️ Equilibrado", "🔥 Berserker", "🌀 Acrobático", "☠️ Destructor", "🐉 Dragón",
+            "🗡️ Equilibrado", "🔥 Berserker", "🤴 Acrobático", "☠️ Destructor", "🐉 Dragón",
             "🦂 Venenoso", "🌪️ Huracán", "👁️ Ilusorio"
         ];
 

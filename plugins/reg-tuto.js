@@ -2,7 +2,7 @@ let handler = async (m, { conn }) => {
   const usuario = m.pushName || 'Usuario';
   const videoUrl = 'https://qu.ax/yTjnH.mp4';
 
-  const texto = `Hola @${m.sender.split('@')[0]} aquí está el tutorial para hacerte subbot en 𝐑𝐞𝐲𝐞𝐬 𝟑𝟑𝟑 𝐁𝐨𝐭 🤴 🌀.`;
+  const texto = `Hola @${m.sender.split('@')[0]} aquí está el tutorial para hacerte subbot en 𝐑𝐞𝐲𝐞𝐬 𝟑𝟑𝟑 𝐁𝐨𝐭 🤴 🤴.`;
 
   const options = {
     quoted: m,

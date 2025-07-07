@@ -46,7 +46,7 @@ const handler = async (m, { conn}) => {
 🍽️ **Modo Especial - Juegos de Cocina** 🍳
 ━━━━━━━━━━━━━━━━━━
 🍕 *Chef Extremo:* \`.chefextremo\` 🔥 - Cocina bajo presión y supera desafíos culinarios!
-🎭 *Cocina Caótica:* \`.chefloco\` 🌀 - Enfréntate al caos de ingredientes locos!
+🎭 *Cocina Caótica:* \`.chefloco\` 🤴 - Enfréntate al caos de ingredientes locos!
 🥇 *Batalla de Chefs:* \`.batallachef\` 👨‍🍳 - Compite contra otros chefs y demuestra tu talento!
 🍰 *Postres Creativos:* \`.postres\` 🎂 - Sorprende a los jueces con un postre espectacular!
 

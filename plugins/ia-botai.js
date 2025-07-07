@@ -17,7 +17,7 @@ const handler = async (m, { conn, args }) => {
 
     const json = await response.json();
     if (json && json.data) {
-      await conn.sendMessage(m.chat, { text: `🤖 *𝐑𝐞𝐲𝐞𝐬 𝟑𝟑𝟑 𝐁𝐨𝐭 🤴 🌀 dice:* ${json.data}` }, { quoted: m });
+      await conn.sendMessage(m.chat, { text: `🤖 *𝐑𝐞𝐲𝐞𝐬 𝟑𝟑𝟑 𝐁𝐨𝐭 🤴 🤴 dice:* ${json.data}` }, { quoted: m });
     } else {
       await conn.sendMessage(m.chat, { text: "❌ No se obtuvo respuesta de la IA." }, { quoted: m });
     }

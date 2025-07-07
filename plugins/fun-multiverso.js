@@ -2,7 +2,7 @@
 const handler = async (m, { conn}) => {
     const misiones = [
         { nombre: "🌍 Mundo Espejo", reto: "Te enfrentas a una versión oscura de la Tierra donde los humanos están aliados con los alienígenas."},
-        { nombre: "🌀 Dimensión Perdida", reto: "Encuentra la puerta secreta para viajar entre mundos sin ser atrapado."},
+        { nombre: "🤴 Dimensión Perdida", reto: "Encuentra la puerta secreta para viajar entre mundos sin ser atrapado."},
         { nombre: "⚔️ Choque de Civilizaciones", reto: "Las fuerzas de otro universo han invadido tu realidad. ¡Lucha para recuperar tu mundo!"},
         { nombre: "🔮 Tecnología Multiversal", reto: "Descifra el código de una máquina que puede cambiar el destino de todas las dimensiones."},
         { nombre: "💣 Última Guerra Cósmica", reto: "El equilibrio del multiverso está en juego. Solo los más fuertes podrán resistir."}
@@ -26,7 +26,7 @@ handler.before = async (m, { conn}) => {
     if (conn.multiverseGame && conn.multiverseGame[m.chat]) {
         const eleccion = parseInt(m.text.trim());
         const misiones = [
-            "🌍 Mundo Espejo", "🌀 Dimensión Perdida", "⚔️ Choque de Civilizaciones",
+            "🌍 Mundo Espejo", "🤴 Dimensión Perdida", "⚔️ Choque de Civilizaciones",
             "🔮 Tecnología Multiversal", "💣 Última Guerra Cósmica"
         ];
 
@@ -54,7 +54,7 @@ handler.before = async (m, { conn}) => {
                     desenlace = resultado[0]; // Menor probabilidad de ganar
 }
 
-                let mensajeFinal = `🌌 *Batalla por el Multiverso* 🚀⚔️\n\n👤 *Jugador:* ${usuario}\n🌀 *Misión elegida:* ${misionSeleccionada}\n\n${desenlace}`;
+                let mensajeFinal = `🌌 *Batalla por el Multiverso* 🚀⚔️\n\n👤 *Jugador:* ${usuario}\n🤴 *Misión elegida:* ${misionSeleccionada}\n\n${desenlace}`;
 
                 conn.sendMessage(m.chat, { text: mensajeFinal});
 

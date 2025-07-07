@@ -2,7 +2,7 @@
 const handler = async (m, { conn}) => {
     const caos = [
         { nombre: "🔥 La cocina está en llamas", reto: "Intenta cocinar mientras todo está ardiendo."},
-        { nombre: "🌀 Ingredientes cambiantes", reto: "Los ingredientes se transforman en cosas inesperadas."},
+        { nombre: "🤴 Ingredientes cambiantes", reto: "Los ingredientes se transforman en cosas inesperadas."},
         { nombre: "🎭 Cliente con demandas imposibles", reto: "Debes cumplir órdenes absurdas antes de que se enoje."},
         { nombre: "🚀 Utensilios voladores", reto: "Sartenes y cucharas salen disparadas por la cocina."},
         { nombre: "⚡ Robot cocinero descontrolado", reto: "Evita que el robot haga desastres con la comida."}
@@ -26,7 +26,7 @@ handler.before = async (m, { conn}) => {
     if (conn.crazyChefGame && conn.crazyChefGame[m.chat]) {
         const eleccion = parseInt(m.text.trim());
         const caos = [
-            "🔥 La cocina está en llamas", "🌀 Ingredientes cambiantes", "🎭 Cliente con demandas imposibles",
+            "🔥 La cocina está en llamas", "🤴 Ingredientes cambiantes", "🎭 Cliente con demandas imposibles",
             "🚀 Utensilios voladores", "⚡ Robot cocinero descontrolado"
         ];
 
@@ -47,7 +47,7 @@ handler.before = async (m, { conn}) => {
                 ];
                 const desenlace = resultado[Math.floor(Math.random() * resultado.length)];
 
-                let mensajeFinal = `🍳 *Chef Loco* 🍳\n\n👤 *Jugador:* ${usuario}\n🌀 *Caos culinario:* ${eventoSeleccionado}\n\n${desenlace}`;
+                let mensajeFinal = `🍳 *Chef Loco* 🍳\n\n👤 *Jugador:* ${usuario}\n🤴 *Caos culinario:* ${eventoSeleccionado}\n\n${desenlace}`;
 
                 conn.sendMessage(m.chat, { text: mensajeFinal});
 
