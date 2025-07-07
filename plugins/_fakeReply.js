@@ -24,7 +24,7 @@ global.rcanal = {
     mediaUrl: null, 
     description: null, 
     previewType: "PHOTO", 
-    thumbnailUrl: icono, 
+    thumbnailUrl: 'https://qu.ax/tNPfx.jpg', 
     sourceUrl: canal, 
     mediaType: 1, 
     renderLargerThumbnail: false }, 
