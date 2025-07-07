@@ -1,7 +1,11 @@
 import fetch from 'node-fetch'
 
 export async function before(m, { conn }) {
+<<<<<<< HEAD
 let name = `ᥴһᥲᥒᥒᥱᥣ-𝐑𝐞𝐲𝐞𝐬 𝟑𝟑𝟑 𝐁𝐨𝐭 🤴 🌀`
+=======
+let name = `𝐆𝐞𝐦𝐢𝐝𝐨𝐫𝐞𝐬 | 𝐃𝐢𝐬𝐨𝐜𝐢𝐚𝐝𝐨𝐬 👑`
+>>>>>>> 4bd2224a669f92645cd9d7f610538953b060ad70
 let imagenes = ["https://files.catbox.moe/6dewf4.jpg",
 "https://files.catbox.moe/6dewf4.jpg",
 "https://files.catbox.moe/6dewf4.jpg",
@@ -24,7 +28,7 @@ global.rcanal = {
     mediaUrl: null, 
     description: null, 
     previewType: "PHOTO", 
-    thumbnailUrl: icono, 
+    thumbnailUrl: 'https://qu.ax/tNPfx.jpg', 
     sourceUrl: canal, 
     mediaType: 1, 
     renderLargerThumbnail: false }, 

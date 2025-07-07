@@ -9,7 +9,7 @@ import axios from 'axios'
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
   global.owner = [
-  [ '172056423456949@lid', 'Barboza OFC', true ],
+  [ '5217227584934', 'Angel', true ],
   [ '50577688033', 'Goku', true ],
   [ '584146277368', 'Willzek', true ],
   [ '5212431268546', "I'm Fz ~", true ],
@@ -24,6 +24,7 @@ global.prems = []
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
+<<<<<<< HEAD
 global.packname = `[ sᥲsᥙkᥱ ᑲ᥆𝗍 🌀`
 global.author = '𝐑𝐞𝐲𝐞𝐬 𝟑𝟑𝟑 𝐁𝐨𝐭 🤴 🌀]'
 global.stickpack = '©𝐑𝐞𝐲𝐞𝐬 𝟑𝟑𝟑 𝐁𝐨𝐭 🤴 🌀'
@@ -36,6 +37,20 @@ global.textbot = `⍴᥆ᥕᥱrᥱძ ᑲᥡ sᥲsᥙkᥱ 🌀`
 global.dev = '• ⍴᥆ᥕᥱrᥱძ ᑲᥡ ᥴ᥆mᥙᥒі𝗍ᥡ 𝐑𝐞𝐲𝐞𝐬 𝟑𝟑𝟑 𝐁𝐨𝐭 🤴 🌀'
 global.listo = '*Aqui tiene ฅ^•ﻌ•^ฅ*'
 global.namechannel = '𝐑𝐞𝐲𝐞𝐬 𝟑𝟑𝟑 𝐁𝐨𝐭 🤴 🌀'
+=======
+global.packname = `[ 𝐑𝐞𝐲𝐞𝐬 𝟑𝟑𝟑 🤴`
+global.author = '𝐑𝐞𝐲𝐞𝐬 𝟑𝟑𝟑 𝐁𝐨𝐭 🤴]'
+global.stickpack = '𝐑𝐞𝐲𝐞𝐬 𝟑𝟑𝟑 𝐁𝐨𝐭 🤴'
+global.stickauth = '𝐁𝐲 𝐑𝐞𝐲𝐞𝐬 𝟑𝟑𝟑 🤴'
+global.wm = '𝐑𝐞𝐲𝐞𝐬 𝟑𝟑𝟑 🤴'
+global.dev = '𝐆𝐞𝐦𝐢𝐝𝐨𝐫𝐞𝐬 | 𝐃𝐢𝐬𝐨𝐜𝐢𝐚𝐝𝐨𝐬 👑'
+global.wait = '𝐁𝐲 𝐑𝐞𝐲𝐞𝐬 𝟑𝟑𝟑 🤴'
+global.botname = '𝐑𝐞𝐲𝐞𝐬 𝟑𝟑𝟑 𝐁𝐨𝐭 🤴'
+global.textbot = `𝐁𝐲 𝐑𝐞𝐲𝐞𝐬 𝟑𝟑𝟑 🤴`
+global.dev = '𝐆𝐞𝐦𝐢𝐝𝐨𝐫𝐞𝐬 | 𝐃𝐢𝐬𝐨𝐜𝐢𝐚𝐝𝐨𝐬 🤴'
+global.listo = '𝐑𝐞𝐲𝐞𝐬 𝟑𝟑𝟑 🤴'
+global.namechannel = '𝐆𝐞𝐦𝐢𝐝𝐨𝐫𝐞𝐬 | 𝐃𝐢𝐬𝐨𝐜𝐢𝐚𝐝𝐨𝐬 👑'
+>>>>>>> 4bd2224a669f92645cd9d7f610538953b060ad70
 global.channel = 'https://whatsapp.com/channel/0029Vb6PvNgE50UeyUYx1105'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
@@ -45,8 +60,8 @@ global.miniurl = fs.readFileSync('./storage/img/miniurl.jpg')
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.group = 'https://chat.whatsapp.com/CBuLXuVZcg9FEfCSHiY6b0'
-global.canal = 'https://whatsapp.com/channel/0029Vaua0ZD3gvWjQaIpSy18'
+global.group = 'https://chat.whatsapp.com/DHuJqbYsbjFCkm2IpL1gey?mode=r_t'
+global.canal = 'https://whatsapp.com/channel/0029Vb6PvNgE50UeyUYx1105'
 global.insta = 'https://www.insta.com/https://www.insta.com/sebastian_barboza13'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
