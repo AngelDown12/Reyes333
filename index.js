@@ -33,7 +33,7 @@ say('sᥲsᥙkᥱ ᑲ᥆𝗍', {
   align: 'center',
   colors: ['white']
 });
-say(`Developed By • sᥲsᥙkᥱ ᑲ᥆𝗍 mძ`, {
+say(`Developed By • 𝐑𝐞𝐲𝐞𝐬 𝟑𝟑𝟑 𝐁𝐨𝐭 🤴`, {
   font: 'console',
   align: 'center',
   colors: ['magenta']

@@ -10,7 +10,7 @@ const clockString = ms => {
 const menuMediaUrl = 'https://qu.ax/Zphmw.jpg'; // Agregamos la URL de la imagen aquí
 
 const menuHeader = `
-╭─❒ 「 sᥲsᥙkᥱ ᑲ᥆𝗍 mძ 🌀 」
+╭─❒ 「 𝐑𝐞𝐲𝐞𝐬 𝟑𝟑𝟑 𝐁𝐨𝐭 🤴 🌀 」
 │ 👤 *Nombre:* %name
 │ 🎖 *Nivel:* %level | *XP:* %exp/%max
 │ 🔓 *Límite:* %limit | *Modo:* %mode
