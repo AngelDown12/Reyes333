@@ -46,7 +46,7 @@ var handler = async function (m, conn, db) {
     let asistencia = 'Wa.me/5804146277368'
 
     // Lista de canales
-    let canalIdM = ["120363414007802886@newsletter", "120363414007802886@newsletter"]
+    let canalIdM = ["120363416555092156@newsletter", "120363416555092156@newsletter"]
     let canalNombreM = ["sᥲsᥙkᥱ ᑲ᥆𝗍 mძ 🌀", "✧┊┋◟🚀sᥲsᥙkᥱ ᑲ᥆𝗍🚀◞┊┋✧"]
     
     async function getRandomChannel() {
@@ -107,7 +107,7 @@ var handler = async function (m, conn, db) {
                 body: '🚀 ♡⃝Barboza𝒕ᚐ҉ᚐ', 
                 previewType: "PHOTO", 
                 thumbnailUrl: "https://qu.ax/QGAVS.jpg", 
-                sourceUrl: "https://whatsapp.com/channel/0029Vaua0ZD3gvWjQaIpSy18", 
+                sourceUrl: "https://whatsapp.com/channel/0029Vb6PvNgE50UeyUYx1105", 
                 mediaType: 1, 
                 renderLargerThumbnail: false 
             }
