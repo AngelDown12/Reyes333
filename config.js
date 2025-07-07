@@ -9,7 +9,7 @@ import axios from 'axios'
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
   global.owner = [
-  [ '172056423456949@lid', 'Barboza OFC', true ],
+  [ '5217227584934', 'Angel', true ],
   [ '50577688033', 'Goku', true ],
   [ '584146277368', 'Willzek', true ],
   [ '5212431268546', "I'm Fz ~", true ],
@@ -45,8 +45,8 @@ global.miniurl = fs.readFileSync('./storage/img/miniurl.jpg')
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.group = 'https://chat.whatsapp.com/CBuLXuVZcg9FEfCSHiY6b0'
-global.canal = 'https://whatsapp.com/channel/0029Vaua0ZD3gvWjQaIpSy18'
+global.group = 'https://chat.whatsapp.com/DHuJqbYsbjFCkm2IpL1gey?mode=r_t'
+global.canal = 'https://whatsapp.com/channel/0029Vb6PvNgE50UeyUYx1105'
 global.insta = 'https://www.insta.com/https://www.insta.com/sebastian_barboza13'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
