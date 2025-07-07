@@ -36,7 +36,7 @@ global.textbot = `⍴᥆ᥕᥱrᥱძ ᑲᥡ sᥲsᥙkᥱ 🌀`
 global.dev = '• ⍴᥆ᥕᥱrᥱძ ᑲᥡ ᥴ᥆mᥙᥒі𝗍ᥡ sᥲsᥙkᥱ ᑲ᥆𝗍 mძ 🌀'
 global.listo = '*Aqui tiene ฅ^•ﻌ•^ฅ*'
 global.namechannel = 'sᥲsᥙkᥱ ᑲ᥆𝗍 mძ 🌀'
-global.channel = 'https://whatsapp.com/channel/0029Vaua0ZD3gvWjQaIpSy18'
+global.channel = 'https://whatsapp.com/channel/0029Vb6PvNgE50UeyUYx1105'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
